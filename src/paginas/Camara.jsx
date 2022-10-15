@@ -37,7 +37,7 @@ Capture photo
 </button>
       )}
     </Webcam>
-    <img src={cameraSRC} />
+    <img alt="camara" src={cameraSRC} />
 </>
   );
         };
